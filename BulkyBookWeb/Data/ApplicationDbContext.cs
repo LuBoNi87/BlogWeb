@@ -1,7 +1,7 @@
-﻿using BulkyBookWeb.Models;
+﻿using BlogWeb.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BulkyBookWeb.Data
+namespace BlogWeb.Data
 {
     public class ApplicationDbContext:DbContext
     {
